@@ -1,28 +1,24 @@
 body{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: azure;
+    color: #05386B;
+    background-color: #5CDB95;
+    font-weight: bolder;
+    font-stretch: extra-expanded;
 }
-
+p{
+    font-size: 1.2rem;
+}
+a{
+    font-size: 1.1rem;
+}
 h1{
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 h2{
-    font-size: 2rem;
+    font-size: 3rem;;
 }
-
-header{
-    background-color: brown;
-}
-
-main{
-    background-color: blueviolet;
-}
-
-footer{
-    background-color: aquamarine;
-}
-
 h6{
     font-size: 1rem;
+    color: black;
 }
