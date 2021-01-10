@@ -4,6 +4,7 @@ body{
     background-color: #5CDB95;
     font-weight: bolder;
     font-stretch: extra-expanded;
+    width: 50rem;
 }
 p{
     font-size: 1.2rem;
@@ -21,4 +22,7 @@ h2{
 h6{
     font-size: 1rem;
     color: black;
+}
+ul{
+    list-style: circle;
 }
